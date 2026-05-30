@@ -1,4 +1,4 @@
-# Prompt Enhancement Assistant
+# AI-Powered Prompt Engineering Assistant
 
 **Author:** [Poonam Tiwari](https://github.com/poonamtiwari)
 
@@ -8,9 +8,11 @@ A full-stack-ready, client-side web application that transforms rough user input
 
 ## Project Overview
 
-**Prompt Enhancement Assistant** helps users write better prompts for AI tools such as ChatGPT, Gemini, and Claude. Users type or speak a rough idea; the app corrects grammar in real time, classifies the request by domain (email, resume, code, marketing, HR, and 25+ more), and produces a structured, professional prompt ready to copy or send to external AI platforms.
+**AI-Powered Prompt Engineering Assistant** helps users write better prompts for AI tools such as ChatGPT, Gemini, and Claude. Users type or speak a rough idea; the app corrects grammar in real time, classifies the request by domain (email, resume, code, marketing, HR, and 25+ more), and produces a structured, professional prompt ready to copy or send to external AI platforms.
 
 This project showcases skills relevant to **frontend development**, **AI integration**, **internationalization**, and **quality engineering**—ideal for portfolio review in software engineering and full-stack roles.
+
+📚 **[Full documentation →](./docs/README.md)**
 
 ---
 
@@ -190,6 +192,23 @@ npm run test:grammar      # Grammar tests only
 - User authentication and prompt history (Supabase-ready dependency)
 - Activate stub components: template selector, history panel, context questions
 - GitHub Pages / Vercel deployment pipeline
+
+---
+
+## Documentation
+
+Detailed project documentation is available in the [`docs/`](./docs/) folder:
+
+| Document | Description |
+|----------|-------------|
+| [Documentation Index](./docs/README.md) | Navigate all docs |
+| [Project Overview](./docs/PROJECT_OVERVIEW.md) | Goals, scope, and portfolio context |
+| [Features](./docs/FEATURES.md) | Complete feature reference |
+| [Architecture](./docs/ARCHITECTURE.md) | System design and data flow |
+| [User Guide](./docs/USER_GUIDE.md) | End-user instructions |
+| [Developer Guide](./docs/DEVELOPER_GUIDE.md) | Setup and development workflow |
+| [API Integration](./docs/API_INTEGRATION.md) | OpenAI integration details |
+| [Testing Guide](./docs/TESTING.md) | Test suites and commands |
 
 ---
 

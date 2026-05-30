@@ -290,7 +290,7 @@ function App() {
                 <Sparkles className="w-6 h-6 text-white" />
               </div>
               <div>
-                <h1 className="text-2xl font-bold text-gray-900">Prompt Enhancement Assistant</h1>
+                <h1 className="text-2xl font-bold text-gray-900">AI-Powered Prompt Engineering Assistant</h1>
                 <p className="text-sm text-gray-600">Simple prompt proofreading and enhancement</p>
               </div>
             </div>
