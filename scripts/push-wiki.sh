@@ -8,6 +8,7 @@ REPO="ponamtiwari/ai-powered-prompt-engineering-assistant"
 WIKI_URL="https://github.com/${REPO}.wiki.git"
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 PROJECT_ROOT="$(dirname "$SCRIPT_DIR")"
+WIKI_SOURCE="$PROJECT_ROOT/wiki"
 WORK_DIR="$(mktemp -d)"
 
 echo "📚 Publishing wiki to GitHub..."
@@ -30,7 +31,7 @@ if ! git clone "$WIKI_URL" "$WORK_DIR/wiki" 2>/dev/null; then
   exit 1
 fi
 
-cp "$SCRIPT_DIR"/*.md "$WORK_DIR/wiki/"
+cp "$WIKI_SOURCE"/*.md "$WORK_DIR/wiki/"
 
 cd "$WORK_DIR/wiki"
 

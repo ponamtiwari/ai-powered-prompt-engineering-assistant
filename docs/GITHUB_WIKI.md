@@ -40,7 +40,7 @@ Wiki pages use GitHub wiki link syntax: `[[Page Name]]`
 From the project root:
 
 ```bash
-./wiki/push-wiki.sh
+./scripts/push-wiki.sh
 ```
 
 Or manually:
