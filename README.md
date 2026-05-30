@@ -1,6 +1,6 @@
 # AI-Powered Prompt Engineering Assistant
 
-**Author:** [Poonam Tiwari](https://github.com/poonamtiwari)
+**Author:** [Poonam Tiwari](https://github.com/ponamtiwari)
 
 A full-stack-ready, client-side web application that transforms rough user inputs into clear, professional AI prompts. Built with React, TypeScript, and OpenAI integration, it demonstrates modern frontend architecture, multilingual NLP workflows, and production-minded testing practices.
 
