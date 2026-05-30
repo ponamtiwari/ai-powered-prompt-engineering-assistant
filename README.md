@@ -16,7 +16,7 @@ A full-stack-ready, client-side web application that transforms rough user input
 
 This project showcases skills relevant to **frontend development**, **AI integration**, **internationalization**, and **quality engineering**—ideal for portfolio review in software engineering and full-stack roles.
 
-📚 **[Full documentation →](./docs/README.md)**
+📚 **[Full documentation →](./docs/README.md)** · **[GitHub Wiki →](https://github.com/ponamtiwari/ai-powered-prompt-engineering-assistant/wiki)** (enable Wikis in repo settings, then run `./wiki/push-wiki.sh`)
 
 ---
 
@@ -214,6 +214,7 @@ Detailed project documentation is available in the [`docs/`](./docs/) folder:
 | [API Integration](./docs/API_INTEGRATION.md) | OpenAI integration details |
 | [Testing Guide](./docs/TESTING.md) | Test suites and commands |
 | [License & Usage](./docs/LICENSE_AND_USAGE.md) | Copyright and permitted use |
+| [GitHub Wiki source](./wiki/README.md) | Wiki pages — publish with `./wiki/push-wiki.sh` |
 
 ---
 
