@@ -18,6 +18,7 @@ Welcome to the project documentation. Use this index to navigate technical and u
 | [Developer Guide](./DEVELOPER_GUIDE.md) | Setup, scripts, testing, and contribution workflow |
 | [API Integration](./API_INTEGRATION.md) | OpenAI services, API key handling, and error handling |
 | [Testing Guide](./TESTING.md) | Test structure, commands, and coverage expectations |
+| [License & Usage](./LICENSE_AND_USAGE.md) | Copyright and permitted use policy |
 
 ---
 

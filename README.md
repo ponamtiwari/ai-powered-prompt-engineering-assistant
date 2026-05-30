@@ -1,5 +1,9 @@
 # AI-Powered Prompt Engineering Assistant
 
+> **© 2026 Poonam Tiwari — All Rights Reserved**  
+> This repository is public for **portfolio and interview review only**.  
+> **Not open source.** Copying, redistribution, commercial use, and reuse as your own project are **not permitted** without written permission. See [LICENSE](./LICENSE).
+
 **Author:** [Poonam Tiwari](https://github.com/ponamtiwari)
 
 A full-stack-ready, client-side web application that transforms rough user inputs into clear, professional AI prompts. Built with React, TypeScript, and OpenAI integration, it demonstrates modern frontend architecture, multilingual NLP workflows, and production-minded testing practices.
@@ -209,12 +213,21 @@ Detailed project documentation is available in the [`docs/`](./docs/) folder:
 | [Developer Guide](./docs/DEVELOPER_GUIDE.md) | Setup and development workflow |
 | [API Integration](./docs/API_INTEGRATION.md) | OpenAI integration details |
 | [Testing Guide](./docs/TESTING.md) | Test suites and commands |
+| [License & Usage](./docs/LICENSE_AND_USAGE.md) | Copyright and permitted use |
 
 ---
 
 ## License
 
-This project is available for portfolio and interview demonstration purposes.
+**© 2026 Poonam Tiwari. All Rights Reserved.**
+
+This project is **not open source**. The repository is public so recruiters and interviewers can review the author's work.
+
+**Permitted:** viewing the code for portfolio, hiring, or interview evaluation.
+
+**Not permitted without written permission:** copying, cloning for reuse, modifying, redistributing, commercial use, or presenting this code as your own work.
+
+Full terms: [LICENSE](./LICENSE) · [License & Usage Policy](./docs/LICENSE_AND_USAGE.md)
 
 ---
 
