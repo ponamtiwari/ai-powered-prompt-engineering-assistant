@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Environment & secrets
+.env
+.env.*
+!.env.example
+
+# Test & coverage
+coverage/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS & editor
+.DS_Store
+__MACOSX/
+.cursor/
+*.swp
+*.swo
+
+# Archives & accidental artifacts
+*.zip
+vite-react-typescript-starter@*
+npm
+vitest
+
+# Vite cache
+.vite/
