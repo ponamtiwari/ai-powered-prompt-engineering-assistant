@@ -111,6 +111,6 @@ The app provides a single interface where users can:
 ## Author
 
 **Poonam Tiwari**  
-Full-Stack Developer  
+Senior Software Engineer  
 
 This project is intended for portfolio review, technical interviews, and demonstration of AI-assisted application development skills.

@@ -4,7 +4,7 @@
 > This repository is public for **portfolio and interview review only**.  
 > **Not open source.** Copying, redistribution, commercial use, and reuse as your own project are **not permitted** without written permission. See [LICENSE](./LICENSE).
 
-**Author:** [Poonam Tiwari](https://github.com/ponamtiwari)
+**Author:** [Poonam Tiwari](https://github.com/ponamtiwari) — Senior Software Engineer
 
 A full-stack-ready, client-side web application that transforms rough user inputs into clear, professional AI prompts. Built with React, TypeScript, and OpenAI integration, it demonstrates modern frontend architecture, multilingual NLP workflows, and production-minded testing practices.
 
@@ -234,6 +234,6 @@ Full terms: [LICENSE](./LICENSE) · [License & Usage Policy](./docs/LICENSE_AND_
 ## Contact
 
 **Poonam Tiwari**  
-Full-Stack Developer  
+Senior Software Engineer
 
 *Built as a portfolio project demonstrating React, TypeScript, AI integration, and test-driven development.*

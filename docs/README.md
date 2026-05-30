@@ -1,7 +1,7 @@
 # Documentation
 
 **AI-Powered Prompt Engineering Assistant**  
-**Author:** Poonam Tiwari
+**Author:** Poonam Tiwari — Senior Software Engineer
 
 Welcome to the project documentation. Use this index to navigate technical and user-facing guides.
 

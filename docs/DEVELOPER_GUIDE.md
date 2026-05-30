@@ -2,7 +2,7 @@
 
 Setup, development workflow, and contribution guidelines for **AI-Powered Prompt Engineering Assistant**.
 
-**Author:** Poonam Tiwari
+**Author:** Poonam Tiwari — Senior Software Engineer
 
 ---
 
